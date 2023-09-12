@@ -1,2 +1,3 @@
 # hello-world
-This is a place for me and you to share about our amazing ideas and inspirations.
+This is a place for us to share our unique ideas and inspirations.
+By the way, I am Joel.
